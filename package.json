@@ -1,6 +1,6 @@
 {
   "name": "lern_circle",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tool for a more effective lerning experience",
   "main": "index.js",
   "directories": {
