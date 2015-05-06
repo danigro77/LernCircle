@@ -1,0 +1,32 @@
+{
+  "name": "lern_circle",
+  "version": "0.0.0",
+  "description": "Tool for a more effective lerning experience",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:danigro77/LernCircle.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Daniela Grossmann <daniela.grossmann@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danigro77/LernCircle/issues"
+  },
+  "homepage": "https://github.com/danigro77/LernCircle#readme"
+}
